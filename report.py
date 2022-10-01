@@ -186,9 +186,9 @@ def add() :
     pdf.cell(60 , 10 , q3 ,border= 0, ln = 1 , align = "L")
 
 
-    #test.delete(0 , END)
-    #uv.delete(0 , END)
-    #nr.delete(0 , END)
+    test.delete(0 , END)
+    uv.delete(0 , END)
+    nr.delete(0 , END)
 
 
 #prnt function : prints the pdf
